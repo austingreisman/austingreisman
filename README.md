@@ -14,10 +14,10 @@
 <h3>Frameworks I develop with </h3>
 <p>  
   <img alt="ROS" src="https://img.shields.io/badge/-ROS2&ROS1-22314E?logo=ros&logoColor=white&style=flat-square" />
+  <img alt="Nav2" src="https://img.shields.io/badge/-Nav2-EE4C2C?logo=ros&logoColor=white&style=flat-square" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white&style=flat-square" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white&style=flat-square" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-  <img alt="Nav2" src="https://img.shields.io/badge/-Nav2-EE4C2C?logo=ros&logoColor=white&style=flat-square" />
   <img alt='OpenCV' src='https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square' />
 
 </p>
