@@ -22,6 +22,7 @@
 
 </p>
 <h3> Concepts I'm familiar with </h3>
+<p>
  <img alt='Path Planning' src='https://img.shields.io/badge/-Path%20Planning-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
  <img alt='SLAM' src='https://img.shields.io/badge/-SLAM-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
  <img alt='Control Systems' src='https://img.shields.io/badge/-Control%20Systems-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
@@ -30,7 +31,7 @@
   <img alt='Computer Vision' src='https://img.shields.io/badge/-Computer%20Vision-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
   <img alt='Embedded Systems' src='https://img.shields.io/badge/-Embedded%20Systems-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
   <img alt='Sensor Fusion' src='https://img.shields.io/badge/-Sensor%20Fusion-FFA500?logo=mathworks&logoColor=white&style=flat-square' />
-
+</p>
 <h3>Connect!</h3>
 
 [![Linkedin: austingreisman](https://img.shields.io/badge/-austingreisman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/austingreisman/)](https://www.linkedin.com/in/austingreisman/)
